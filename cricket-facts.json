@@ -1,0 +1,23 @@
+{
+  "most_centuries": {
+    "player": "Sachin Tendulkar",
+    "centuries": 100
+  },
+  "most_wickets": {
+    "player": "Muttiah Muralitharan",
+    "wickets": 1347
+  },
+  "greatest_players": [
+    "Sachin Tendulkar",
+    "Sir Don Bradman",
+    "Virat Kohli",
+    "AB de Villiers",
+    "MS Dhoni"
+  ],
+  "pitch_types": [
+    "Green pitch",
+    "Dusty pitch",
+    "Flat pitch",
+    "Dead pitch"
+  ]
+}
